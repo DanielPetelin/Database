@@ -1,0 +1,20 @@
+* {
+      font-size: 100px;
+      font-weight: 700;
+}
+.sign, .I, .deletMe {
+      border: none;
+      background-color: transparent;
+      outline: none;
+}
+.I {
+      display: none;
+}
+.outName {
+      display: none;
+      font-size: 50px;
+      padding: 16px 16px 16px 16px;
+      border: 6px solid #d6d6d6;
+      border-radius: 60px;
+      float: left;
+}
